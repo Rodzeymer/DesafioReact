@@ -13,8 +13,9 @@ class App extends Component{
     render(){
         return(
             <div className="App">
-                <iframe class="video"
-   src="https://www.youtube.com/embed/ntT-N5f-Aks" allowfullscreen=""></iframe>
+                <iframe class="video" 
+                src="https://www.youtube.com/embed/ntT-N5f-Aks" allowfullscreen="">
+                </iframe>
             </div>
         )
     }
